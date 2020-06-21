@@ -1,0 +1,29 @@
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.AssemblyInfoInputs.cache
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.AssemblyInfo.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.csproj.CoreCompileInputs.cache
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.RazorAssemblyInfo.cache
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.RazorAssemblyInfo.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.TagHelpers.input.cache
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.TagHelpers.output.cache
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.RazorCoreGenerate.cache
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.RazorTargetAssemblyInfo.cache
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.RazorTargetAssemblyInfo.cs
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.dll
+C:\Users\Dektop Poozer\source\repos\MvcMovie\obj\Release\netcoreapp3.1\Mormon Movies.pdb
